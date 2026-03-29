@@ -23,7 +23,7 @@
 	<parent>
 		<groupId>com.37audits</groupId>
 		<artifactId>open-source-parent</artifactId>
-		<version>1.0.2</version>
+		<version>1.0.4</version>
 	</parent>
 
 	<groupId>com.37audits</groupId>
