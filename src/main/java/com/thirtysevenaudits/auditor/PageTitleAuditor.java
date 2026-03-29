@@ -35,6 +35,9 @@ import org.jsoup.Connection;
  */
 public class PageTitleAuditor extends AbstractLambdaAuditor {
 
+    /** Creates a new {@code PageTitleAuditor}. */
+    public PageTitleAuditor() {}
+
     @Override
     public String getName() {
         return "Page Title";
